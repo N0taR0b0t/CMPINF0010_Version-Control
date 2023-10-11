@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © `2` `<copyright holders>`
+Copyright © `2` `<Matias Badino and Deonte Vanterpool>`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
