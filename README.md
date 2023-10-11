@@ -1,4 +1,7 @@
 Version Control Assignment
-Our program prompts the user for their name and age and uses the current year to predict the year they will die. We use the national average lifespan of 77 years and subtract their age from that to calculate how long they are expected to live. Then we tell them the year they should die if they live as long as the national average.
+
+
+Our program prompts the user for their name. Then it prompts the user for their name, and outputs their name, birthyear, life expectancy (set to 77) and expected year of death.
+
 
 The members in this group are as follows: Deonte Vanterpool, Matias Badino, and Dev Weiss
