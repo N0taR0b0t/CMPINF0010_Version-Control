@@ -11,7 +11,7 @@ After reading the code of conduct, you may submit a github issue if you have a f
 Python interpreter.
 
 ## Installation and Use
-This code is licensed under the MIT license to provide as much liberty for others to use the code in whatever way they choose. In summary, you may do whatever you want with the code as long as you include the original copyright and license notice. The template for the MIT license may be found [here](https://mit-license.org/)https://mit-license.org/).
+This code is licensed under the MIT license to provide as much liberty for others to use the code in whatever way they choose. In summary, you may do whatever you want with the code as long as you include the original copyright and license notice. The template for the MIT license may be found [here](https://mit-license.org/).
 
 The code of conduct was chosen to encourage safe and welcoming collaboration.
 
